@@ -1,4 +1,4 @@
-# Report
+# Project Reports
 Repository of semester reports I co-authored during my bachelor and masters degree. A brief description of each report is provided below.
 
 ## P10_CA4_ESA_Masters_LPV.pdf
